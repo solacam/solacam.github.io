@@ -1,0 +1,28 @@
+﻿
+Ren'Py 6.99.10.1227 lint report, generated at: Mon Aug 08 13:25:24 2016
+
+
+Statistics:
+
+The game contains 506 dialogue blocks, containing 7,976 words and 45,175
+characters, for an average of 15.8 words and 89 characters per block.
+
+The japanese translation contains 503 dialogue blocks, containing 842 words
+and 22,897 characters, for an average of 1.7 words and 46 characters per
+block.
+
+The korean translation contains 503 dialogue blocks, containing 5,899 words
+and 26,784 characters, for an average of 11.7 words and 53 characters per
+block.
+
+The russian translation contains 502 dialogue blocks, containing 6,031 words
+and 42,424 characters, for an average of 12.0 words and 85 characters per
+block.
+
+The game contains 7 menus, 46 images, and 16 screens.
+
+
+Remember to set config.developer to False before releasing.
+
+Lint is not a substitute for thorough testing. Remember to update Ren'Py
+before releasing. New releases fix bugs and improve compatibility.
