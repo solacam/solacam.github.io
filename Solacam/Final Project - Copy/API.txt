@@ -1,0 +1,7 @@
+API: Application Programming Interface
+API key: identifies the developer and the program using the API
+Google Maps JavaScript API:
+ Customize: 
+	- Starting Location
+	- Map Type
+	- Icons
